@@ -1,6 +1,8 @@
 # RISC-V-HLS
 Design and Simulation of an RV32I RISC-V Processor Core Using High-Level Synthesis
 
+Note: The Verilog code folder contains the code for synthesizeable processor core.
+
 This project demonstrates the design and simulation of a RISC-V RV32I-based System-on-Chip (SoC) using the Vivado High-Level Synthesis (HLS) tool.
 
 Overview
