@@ -33,4 +33,4 @@ Results:
 
 Resource utilization: Very low
 
-  This approach shows how HLS can effectively bridge the gap between software-level design and hardware-level implementation, offering a streamlined workflow for developing RISC-V-based SoCs.
+    This approach shows how HLS can effectively bridge the gap between software-level design and hardware-level implementation, offering a streamlined workflow for developing RISC-V-based SoCs.
